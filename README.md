@@ -1,4 +1,5 @@
 # Sliding Window
+Go through this YouTube video get more concepts
 # Fixed Sliding window
 Imaging two shape
 - Rectangle
@@ -62,12 +63,6 @@ https://leetcode.com/problems/max-consecutive-ones-ii/
 
 https://leetcode.com/problems/max-consecutive-ones-iii/
 
-https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-
-https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
-
-https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
-
 ## Dynamic window size with auxillary data structure
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
@@ -80,10 +75,9 @@ https://leetcode.com/problems/longest-repeating-character-replacement/
 ## Multiple Dynamic window
 https://leetcode.com/problems/subarrays-with-k-different-integers/
 
-## Multi dimensional window
+## Sounds similar but not a sliding window problem due to additive nature
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 
-## Sounds similar but not a sliding window problem due to additive nature
 https://leetcode.com/problems/subarray-sum-equals-k/
 
 https://leetcode.com/problems/maximum-subarray/
@@ -91,7 +85,6 @@ https://leetcode.com/problems/maximum-subarray/
 # Commonalities 
 - Everything is grouped sequentially
 - Longest/smallest/contains/max/min
-- 
 
 # Reference 
 https://www.youtube.com/watch?v=MK-NZ4hN7rs
