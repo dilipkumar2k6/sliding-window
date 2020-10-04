@@ -73,8 +73,15 @@ https://leetcode.com/problems/consecutive-characters/
 
 https://leetcode.com/problems/longest-repeating-character-replacement/
 
+https://leetcode.com/problems/minimum-window-substring/
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
 ## Multiple Dynamic window
 https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+
 
 ## Sounds similar but not a sliding window problem due to additive nature
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
@@ -82,6 +89,8 @@ https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 https://leetcode.com/problems/subarray-sum-equals-k/
 
 https://leetcode.com/problems/maximum-subarray/
+
+https://leetcode.com/problems/minimum-window-subsequence/
 
 # Commonalities 
 - Everything is grouped sequentially
