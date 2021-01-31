@@ -1,5 +1,6 @@
 # Sliding Window
 Go through this YouTube video get more concepts
+
 https://www.youtube.com/watch?v=MK-NZ4hN7rs
 # Fixed Sliding window
 Imaging two shape
@@ -51,9 +52,21 @@ Based on different type of problem we either choose fixed size dynamic window or
     - shortest
     - contains 
     - calculate something for example sum, average etc
+# Rolling hash | Rabin karp algorithm | Pattern searching
+https://www.youtube.com/watch?v=BQ9E-2umSWc
+
+Key concepts 
+- Generate hash based on `26` (or max number of chars) as bas number
+- To apply sliding window
+    - subtract the value for first position 
+    - shift number to right (multiply by `26`)
+    - add new value for new char added to sliding window
+
 # Questions Variants
 ## Fixed length window size
 https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
+
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 
 ## Dynamic window size
 https://leetcode.com/problems/minimum-size-subarray-sum/
@@ -82,6 +95,8 @@ https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
+## Pattern matching string problems
+https://leetcode.com/problems/longest-duplicate-substring/
 
 ## Sounds similar but not a sliding window problem due to additive nature
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
