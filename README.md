@@ -77,6 +77,8 @@ https://leetcode.com/problems/max-consecutive-ones-ii/
 
 https://leetcode.com/problems/max-consecutive-ones-iii/
 
+https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
+
 ## Dynamic window size with auxillary data structure
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
