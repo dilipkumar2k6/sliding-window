@@ -68,6 +68,8 @@ https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
 
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 
+https://leetcode.com/problems/k-empty-slots/
+
 ## Dynamic window size
 https://leetcode.com/problems/minimum-size-subarray-sum/
 
