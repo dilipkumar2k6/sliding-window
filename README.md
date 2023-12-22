@@ -83,6 +83,8 @@ https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/editorial/
 
+https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/
+
 ## Dynamic window size with auxillary data structure
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
