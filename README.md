@@ -85,10 +85,10 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/editorial/
 
 https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/
 
-## Dynamic window size with auxillary data structure
-https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-
+## Dynamic window size with auxiliary data structure
 https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
+
+https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
 https://leetcode.com/problems/consecutive-characters/
 
@@ -98,7 +98,7 @@ https://leetcode.com/problems/minimum-window-substring/
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-## Multiple Dynamic window
+## Multiple Dynamic windows
 https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
