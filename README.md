@@ -64,6 +64,22 @@ Key concepts
 
 # Questions Variants
 ## Fixed length window size
+https://leetcode.com/problems/moving-average-from-data-stream/description/
+
+https://leetcode.com/problems/maximum-average-subarray-i/description/
+
+https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold
+
+https://leetcode.com/problems/diet-plan-performance/
+
+https://leetcode.com/problems/grumpy-bookstore-owner/
+
+https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+
+https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/
+
+https://leetcode.com/problems/sliding-window-maximum/
+
 https://www.educative.io/courses/grokking-the-coding-interview/JPKr0kqLGNP
 
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
