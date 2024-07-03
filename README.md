@@ -86,6 +86,8 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/
 
 https://leetcode.com/problems/k-empty-slots/
 
+https://leetcode.com/problems/permutation-in-string
+
 ## Dynamic window size
 https://leetcode.com/problems/minimum-size-subarray-sum/
 
